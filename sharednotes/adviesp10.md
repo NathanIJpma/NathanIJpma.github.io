@@ -1,3 +1,8 @@
+---
+---
+---
+---
+
 # Analyse
 ### Doel
 Must have: trainers gelukkig
@@ -24,7 +29,7 @@ Willen dat P10 apart traint.
 Onbekend
 
 ##### Woensdagtrainers
-In afwachting op antwoord
+Liam: The trainings have been going very well. They are good players and they turn up in greater numbers than P3. The vibes are good and I always push them so it’s all okay at the moment
 
 
 ##### Maandagtrainers
@@ -46,6 +51,8 @@ Ik weet niet of ze weten wat de gevolgen kunnen zijn.
 
 ### Lief op fouten wijzen
 - Zeggen wat ze beter moeten doen
+- Hinten op eventuele consequenties?
+- (niet benoemen) Een maand de tijd om verbetering te tonen, anders nieuwe oplossing.
 
 ### Streng op fouten en consequenties wijzen
 - Zeggen wat ze beter moeten doen
@@ -53,5 +60,8 @@ Ik weet niet of ze weten wat de gevolgen kunnen zijn.
 	- 1e keer: waarschuwing
 	- 2e keer: 1 training niet welkom
 	- 3e keer: 4 trainingen niet welkom
-	- 4e keer:  8 trainingen niet welkom
+	- 4e keer: 8 trainingen niet welkom
 	- 5e keer: rest van seizoen niet welkom op trainingen
+
+# Advies
+Voor oplossing "lief op fouten wijzen" gaan. Ze zijn zich duidelijk nog niet bewust van hoe serieus we het nemen, en mogelijk begrijpen ze ook nog niet precies wat ze fout doen. Het is dus mogelijk een maand aanzien voor P4, maar daarna gaan we indien nodig harder optreden.
